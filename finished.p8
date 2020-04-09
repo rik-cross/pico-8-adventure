@@ -5,6 +5,7 @@ __lua__
 debug = false
 
 
+
 function newapple(x,y)
  return newentity({
      -- create a position component
